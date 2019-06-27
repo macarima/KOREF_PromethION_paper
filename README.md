@@ -1,6 +1,6 @@
-# Supplementary information for de novo assembly of KOREF long reads
+## Supplementary information for de novo assembly of KOREF long reads
 
-[PromethION R9.4.1]
+## PromethION R9.4.1
 
   Assembler : wtdbg2 v2.3
 
@@ -8,7 +8,7 @@
   Assembler options for coverage 64x : -S 2 -L 5000
 
 
-[PacBio Sequel]
+## PacBio Sequel
 
   Assembler : wtdbg2 v2.3
 
