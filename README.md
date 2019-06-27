@@ -14,3 +14,7 @@
 
   * Assembler options for coverage 30x : -x sq --edge-min 4
   * Assembler options for coverage 62x : -x sq -g3g 
+
+## KOREF information
+
+  * Information of the first Korean Reference Genome, KOREF, is under 'KOREF.net (http://koref.net)' 
