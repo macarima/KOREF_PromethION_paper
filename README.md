@@ -17,4 +17,4 @@
 
 ## KOREF information
 
-  * Information of the first Korean Reference Genome, KOREF, is available on 'KOREF.net (http://koref.net)' 
+  * Information of the first Korean Reference Genome, KOREF, is available on 'KOREF.net (http://koref.net)'.
