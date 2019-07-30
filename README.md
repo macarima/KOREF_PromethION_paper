@@ -20,7 +20,7 @@
 
   * Assembler : wtdbg2 v2.4
 
-  * Assembler options for coverage 25x : -x ccs --edge-min 2 --rescue-low-cov-edges
+  * Assembler options for coverage 25x : -x ccs -g3g --edge-min 2 --rescue-low-cov-edges
 
   * Accession information : SRX5633451 (https://www.ncbi.nlm.nih.gov/sra/SRX5633451)
 
