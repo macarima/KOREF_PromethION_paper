@@ -24,6 +24,7 @@
 
   * Accession information : SRX5633451 (https://www.ncbi.nlm.nih.gov/sra/SRX5633451)
 
+  * Assembled contigs and information is available on 'KOGIC BioDisk (ftp://biodisk.org/BiO/PromethION_data_paper_suffle/)'.
 
 ## KOREF information
 
