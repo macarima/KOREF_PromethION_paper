@@ -18,7 +18,7 @@
 
 ## PacBio Sequel II from CHM3 HiFi sequencing
 
-  * Assembler : wtdbg2 v2.4
+  * Assembler : wtdbg2 v2.3
 
   * Assembler options for coverage 25x : -x ccs -g3g --edge-min 2 --rescue-low-cov-edges
 
